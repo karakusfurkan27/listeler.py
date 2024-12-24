@@ -1,7 +1,3 @@
-İşte verdiğiniz Python kodu için bir README dosyası açıklaması:
-
----
-
 # Python Veri Yapıları ve Temel Fonksiyonlar
 
 Bu Python kodu, çeşitli veri yapıları ve temel Python fonksiyonlarını kullanarak yapılan işlemleri göstermektedir. Aşağıda her bir bölümün açıklamaları bulunmaktadır.
